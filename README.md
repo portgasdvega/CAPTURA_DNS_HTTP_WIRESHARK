@@ -1,4 +1,4 @@
-# ANALISIS-DE-DNS-Y-HTTP-WIRESHARK
+# ANALISIS DE DNS Y HTTP EN WIRESHARK
 
 # 🔍 Análisis de Tráfico DNS y HTTP con Wireshark
 
