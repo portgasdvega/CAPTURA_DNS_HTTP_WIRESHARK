@@ -1,6 +1,6 @@
 # ANALISIS DE DNS Y HTTP EN WIRESHARK
 
-# 🔍 Análisis de Tráfico DNS y HTTP con Wireshark
+# Análisis de Tráfico DNS y HTTP con Wireshark
 
 Este repositorio contiene una práctica básica de análisis de tráfico de red usando Wireshark, enfocada en los protocolos DNS y HTTP. Esta actividad demuestra la capacidad para interpretar estructuras de paquetes y el comportamiento de las solicitudes/respuestas en la red.
 
